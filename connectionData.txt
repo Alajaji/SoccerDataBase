@@ -4,6 +4,6 @@ $server = "ec2-18-236-123-231.us-west-2.compute.amazonaws.com";
 $dbname ="mydb";
 $user = "root";
 $pass = "root";
-$port="3306";
+$port="3863";
 
 ?>
